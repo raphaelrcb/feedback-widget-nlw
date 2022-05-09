@@ -1,1 +1,3 @@
 # Feedback Widget
+
+    Application developed along the Next Level Week - Return event by Rocketseat, that aimed on developing a feedback widget app on both, web and mobile environments. The objective was to learn how to use nodejs to develop the front-end and the back-end of the application using TypeScript, React and React Native, SQLite, Prisma, Unitary Tests, good programming practices and much more.
