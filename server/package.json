@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "build": "npx ctsc",
+    "start": "node dist/server.js",
     "dev": "ts-node-dev src/server.ts"
   },
   "keywords": [],
